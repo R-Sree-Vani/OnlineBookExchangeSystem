@@ -1,0 +1,19 @@
+body{
+	background-color: #FAE4C4;
+}
+.h11cls{
+	color: brown;
+	position: relative;
+	left: 0px;
+}
+.acls{
+	text-align: right;
+	position: relative;
+	left: 500px;
+}
+#sidebarMenu{
+	position: relative;
+	background-color: brown;
+	color: #FAE4C4;
+
+}
